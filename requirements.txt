@@ -1,0 +1,10 @@
+# Consolidated root requirements file for the project
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+joblib
+requests
+beautifulsoup4
