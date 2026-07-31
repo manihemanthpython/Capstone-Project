@@ -3,6 +3,7 @@ Module 2: Analytics Pipeline
 Now we Read about an end-to-end machine learning workflow on the Titanic dataset, structured across two core phases:
 * phases :-> 1
   ** Exploratory Data Analysis
+* phases :-> 2
   ** Prediction Modeling 
 
 1. Exploratory Data Analysis (01_eda.py)
